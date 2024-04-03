@@ -2,7 +2,7 @@ package WorkPermission;
 
 import java.util.Objects;
 
-public class workTime {
+public class WorkTime {
 
     private String id;
     private String journeyPlanManager;

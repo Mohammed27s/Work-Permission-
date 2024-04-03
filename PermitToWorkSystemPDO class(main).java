@@ -4,14 +4,13 @@ import java.util.List;
 import java.util.Vector;
 
 //This is the main class
-public class PermitToWorkSystemPDO {
+public class PermitToWorkSystemPdo {
 
 
     List<Team> teams;
     List<PPE> ppe;
     List<Vehicle> vehicle;
-    workTime time;
-
+    WorkTime time;
 
 
 
